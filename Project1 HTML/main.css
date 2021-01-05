@@ -1,0 +1,25 @@
+.second{
+font-size:25px;
+}
+body{
+  font-size:20px;
+}
+table{
+width: 50%;
+}
+td{
+  padding: 10px;
+}
+hr{
+background-color:white;
+border-style:none;
+border-top-style:dotted;
+border-width:8px;
+height:0;
+width: 15%;
+
+}
+footer{
+font-size:15px;
+text-align:center;
+}
